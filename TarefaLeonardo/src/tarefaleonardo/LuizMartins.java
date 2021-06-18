@@ -10,5 +10,5 @@ package tarefaleonardo;
  * @author luizh
  */
 public class LuizMartins {
-    
+    int valor;
 }
